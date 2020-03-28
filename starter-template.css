@@ -1,0 +1,15 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+.profile-table{
+  border-collapse: separate;
+  border-spacing: 10px 1px;
+}
+.skills-table{
+  border-collapse: separate;
+  border-spacing: 8px 0px;
+}
